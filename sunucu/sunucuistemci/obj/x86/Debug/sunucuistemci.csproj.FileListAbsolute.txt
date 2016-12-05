@@ -1,0 +1,9 @@
+C:\Users\EBRAR\Desktop\sunucuistemci\sunucuistemci\bin\Debug\sunucuistemci.exe
+C:\Users\EBRAR\Desktop\sunucuistemci\sunucuistemci\bin\Debug\sunucuistemci.pdb
+C:\Users\EBRAR\Desktop\sunucuistemci\sunucuistemci\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EBRAR\Desktop\sunucuistemci\sunucuistemci\obj\x86\Debug\sunucuistemci.exe
+C:\Users\EBRAR\Desktop\sunucuistemci\sunucuistemci\obj\x86\Debug\sunucuistemci.pdb
+D:\Documents\2012-2013\2012-2013 Bahar Dersler\Programlama Dilleri 5\network bağlantı\sunucu\sunucuistemci\obj\x86\Debug\sunucuistemci.exe
+D:\Documents\2012-2013\2012-2013 Bahar Dersler\Programlama Dilleri 5\network bağlantı\sunucu\sunucuistemci\obj\x86\Debug\sunucuistemci.pdb
+D:\Documents\2012-2013\2012-2013 Bahar Dersler\Programlama Dilleri 5\network bağlantı\sunucu\sunucuistemci\bin\Debug\sunucuistemci.exe
+D:\Documents\2012-2013\2012-2013 Bahar Dersler\Programlama Dilleri 5\network bağlantı\sunucu\sunucuistemci\bin\Debug\sunucuistemci.pdb

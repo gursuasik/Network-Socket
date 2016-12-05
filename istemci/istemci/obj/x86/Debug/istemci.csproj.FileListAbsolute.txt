@@ -1,0 +1,10 @@
+C:\Users\EBRAR\Desktop\istemci\istemci\bin\Debug\istemci.exe
+C:\Users\EBRAR\Desktop\istemci\istemci\bin\Debug\istemci.pdb
+C:\Users\EBRAR\Desktop\istemci\istemci\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EBRAR\Desktop\istemci\istemci\obj\x86\Debug\istemci.exe
+C:\Users\EBRAR\Desktop\istemci\istemci\obj\x86\Debug\istemci.pdb
+D:\Documents\2012-2013\2012-2013 Bahar Dersler\Programlama Dilleri 5\network bağlantı\istemci\istemci\obj\x86\Debug\istemci.exe
+D:\Documents\2012-2013\2012-2013 Bahar Dersler\Programlama Dilleri 5\network bağlantı\istemci\istemci\obj\x86\Debug\istemci.pdb
+D:\Documents\2012-2013\2012-2013 Bahar Dersler\Programlama Dilleri 5\network bağlantı\istemci\istemci\bin\Debug\istemci.exe
+D:\Documents\2012-2013\2012-2013 Bahar Dersler\Programlama Dilleri 5\network bağlantı\istemci\istemci\bin\Debug\istemci.pdb
+D:\Documents\2012-2013\2012-2013 Bahar Dersler\Programlama Dilleri 5\network bağlantı\istemci\istemci\obj\x86\Debug\istemci.csprojResolveAssemblyReference.cache
